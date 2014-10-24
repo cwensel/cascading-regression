@@ -19,3 +19,5 @@
  */
 
 rootProject.name = 'cascading-regression'
+
+include 'slow-compile'
